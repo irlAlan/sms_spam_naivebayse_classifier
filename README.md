@@ -3,6 +3,8 @@
 ## build:
 Install cmake and make
 run
+```mkdir build/```
+
 ```cmake -B ./build```
 then 
 ```cmake --build ./build```
